@@ -81,10 +81,6 @@ Run `npm start` to start the application
 ![image](https://user-images.githubusercontent.com/81776711/224615047-2b015e56-ebdb-44e1-a29d-6fd382b40981.png)
 
 
-**Cart page**
-
-![image](https://user-images.githubusercontent.com/81776711/224614923-de0f913c-6305-4357-8b99-c32de24041b0.png)
-
 
 **Orders page**
 

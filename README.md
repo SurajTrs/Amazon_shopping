@@ -86,11 +86,6 @@ Run `npm start` to start the application
 ![image](https://user-images.githubusercontent.com/81776711/224614923-de0f913c-6305-4357-8b99-c32de24041b0.png)
 
 
-**Payment page**
-
-![image](https://user-images.githubusercontent.com/81776711/224615321-63c60972-78a4-49b0-8df4-d49a85a6cb86.png)
-
-
 **Orders page**
 
 ![image](https://user-images.githubusercontent.com/81776711/224616126-7f3d7bff-e8d5-41dc-adb6-f9f1e6191654.png)
